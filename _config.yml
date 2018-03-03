@@ -1,22 +1,17 @@
 # Profile information
-name: Mike's Blog
-title: Mikes - Mike's blog
+name:朱氏博客
+title: 朱氏博客
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  欢迎来到朱朱的博客
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: #Add your Facebook
-twitter: #Add your Twitter
-google-plus: #Add your Google+
-github: #Add your Github
-
+qq: 9739568
+github: shevaxp.github.io
 # Contact form
-email: #your-email@domain.com
+email:shevaxp@hotmail.com #your-email@domain.com
 
 # Comments
 discus-identifier: # Add your Disqus identifier
